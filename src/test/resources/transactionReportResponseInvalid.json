@@ -1,0 +1,15 @@
+{
+  "status": "DECLINED",
+  "response": [
+    {
+      "count": 0,
+      "total": 0,
+      "currency": "TRY"
+    },
+    {
+      "count": 0,
+      "total": 0,
+      "currency": "RUB"
+    }
+  ]
+}

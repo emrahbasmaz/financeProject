@@ -1,0 +1,19 @@
+server:
+  port: 8080
+
+spring:
+  resources:
+    static-locations: "classpath:/static/"
+  thymeleaf:
+    cache: false
+  autoconfigure:
+    exclude: org.springframework.boot.autoconfigure.security.servlet.SecurityAutoConfiguration
+
+sandbox:
+  client:
+    url: https://sandbox-reporting.rpdpymnt.com/api
+    email: demo@bumin.com.tr
+    password: cjaiU8CV
+
+#    https://reporting.rpdpymnt.com/api/v3/merchant/user/login
+#    https://sandbox-reporting.rpdpymnt.com/api/v3/merchant/user/login

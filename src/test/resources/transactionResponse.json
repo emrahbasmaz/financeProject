@@ -1,0 +1,85 @@
+{
+  "customerInfo": {
+    "id": 706755,
+    "created_at": "2018-10-12 07:33:45",
+    "updated_at": "2018-10-12 07:33:45",
+    "deleted_at": null,
+    "number": "411111XXXXXX1111",
+    "expiryMonth": "1",
+    "expiryYear": "2020",
+    "startMonth": null,
+    "startYear": null,
+    "issueNumber": null,
+    "email": "seckin@bumin.io",
+    "birthday": "1971-11-11 07:33:45",
+    "gender": null,
+    "billingTitle": "Mr.",
+    "billingFirstName": "SECKIN",
+    "billingLastName": "SEN",
+    "billingCompany": "BUMIN",
+    "billingAddress1": "BUMN",
+    "billingAddress2": null,
+    "billingCity": "ANTALYA",
+    "billingPostcode": "07070",
+    "billingState": "ANTALYA",
+    "billingCountry": "TR",
+    "billingPhone": "05554443322",
+    "billingFax": null,
+    "shippingTitle": "Mr.",
+    "shippingFirstName": "SECKIN",
+    "shippingLastName": "SEN",
+    "shippingCompany": "BUMIN",
+    "shippingAddress1": "BUMN",
+    "shippingAddress2": null,
+    "shippingCity": "ANTALYA",
+    "shippingPostcode": "07070",
+    "shippingState": "ANTALYA",
+    "shippingCountry": "TR",
+    "shippingPhone": "05554443322",
+    "shippingFax": null,
+    "token": null
+  },
+  "fx": {
+    "merchant": {
+      "originalAmount": 1500,
+      "originalCurrency": "RUB"
+    }
+  },
+  "txn": {
+    "merchant": {
+      "id": 1010992,
+      "referenceNo": "trn-test-seck-1",
+      "merchantId": 1293,
+      "fxTxnId": 1388674,
+      "acquirerTxnId": 1013528,
+      "chainId": "5bc04e59a3f5b",
+      "agentInfoId": 21896,
+      "returnUrl": null,
+      "status": "APPROVED",
+      "operation": "DIRECT",
+      "created_at": "2018-10-12 07:33:45",
+      "updated_at": "2018-10-12 07:34:38",
+      "deleted_at": null,
+      "code": "00",
+      "message": "Approved",
+      "channel": "API",
+      "customData": null,
+      "parentId": null,
+      "type": "AUTH",
+      "txnId": "1010992-1539329625-1293",
+      "agent": {
+        "id": 21896,
+        "customerIp": "213.74.172.226",
+        "customerUserAgent": "PostmanRuntime/7.3.0",
+        "merchantIp": "213.74.172.226",
+        "merchantUserAgent": "PostmanRuntime/7.3.0",
+        "created_at": "2018-09-19 13:43:16",
+        "updated_at": "2018-09-19 13:43:16",
+        "deleted_at": null
+      }
+    }
+  },
+  "merchant": {
+    "name": "Seckin Merchant"
+  }
+}

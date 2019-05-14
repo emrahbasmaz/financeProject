@@ -1,0 +1,15 @@
+{
+  "status": "APPROVED",
+  "response": [
+    {
+      "count": 10,
+      "total": 350961,
+      "currency": "TRY"
+    },
+    {
+      "count": 7,
+      "total": 9600,
+      "currency": "RUB"
+    }
+  ]
+}
